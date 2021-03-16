@@ -8,7 +8,7 @@ const int N 40;
 
 int main(void)
 {
-
+    int i = 0;
      cout << "\nThe sum is" // << sum 
     return (0);
 }
